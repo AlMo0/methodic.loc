@@ -90,7 +90,7 @@
 <div class="container-fluid">
 
     <div class="page-header">
-        <h1>Example page header <small>Subtext for header</small></h1>
+        <h1>Автомобильный сайт <small>все что должен знать автолюбитель</small></h1>
     </div>
 
     <div class="row">
@@ -98,9 +98,12 @@
             <div class="thumbnail">
                 <img src="..." alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p>...</p>
-                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                    <h3>Tayota Camry</h3>
+                    <p>Автомобиль нового поколения для всей семьи</p>
+                    <p>
+                        <a href="#" class="btn btn-primary" role="button">Скрыть</a>
+                        <a href="#" class="btn btn-default" role="button">Подробнее</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -109,9 +112,12 @@
             <div class="thumbnail">
                 <img src="..." alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p>...</p>
-                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                    <h3>Reno</h3>
+                    <p>Автомобиль нового поколения для всей семьи</p>
+                    <p>
+                        <a href="#" class="btn btn-primary" role="button">Скрыть</a>
+                        <a href="#" class="btn btn-default" role="button">Подробнее</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -120,9 +126,12 @@
             <div class="thumbnail">
                 <img src="..." alt="...">
                 <div class="caption">
-                    <h3>Thumbnail label</h3>
-                    <p>...</p>
-                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                    <h3>Ford</h3>
+                    <p>Автомобиль нового поколения для всей семьи</p>
+                    <p>
+                        <a href="#" class="btn btn-primary" role="button">Скрыть</a>
+                        <a href="#" class="btn btn-default" role="button">Подробнее</a>
+                    </p>
                 </div>
             </div>
         </div>
