@@ -1,0 +1,7 @@
+DirectoryIndex /web/index.php
+
+#׃האכÿול category טח URL
+#RewriteRule ^category/(.+)$ http://www.site.com/$1 [R=301,L]
+
+#׃בטנאול נאסרטנוםטו פאיכא טח URL
+#RewriteRule ^(([^/]+/)*[^.]+)$ /$1.php [L]
