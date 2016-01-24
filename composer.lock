@@ -4,8 +4,37 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f32d0636e3d6571d3744e293a65f200f",
+    "hash": "31b638d9004b7e4070f9cde1fe3aa0a3",
     "packages": [
+        {
+            "name": "codeigniter/framework",
+            "version": "3.0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bcit-ci/CodeIgniter.git",
+                "reference": "ac067858c21250dd8c60cdc1f9bc12ba2ff82755"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/ac067858c21250dd8c60cdc1f9bc12ba2ff82755",
+                "reference": "ac067858c21250dd8c60cdc1f9bc12ba2ff82755",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2.4"
+            },
+            "require-dev": {
+                "mikey179/vfsstream": "1.1.*"
+            },
+            "type": "project",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "The CodeIgniter framework",
+            "homepage": "https://codeigniter.com",
+            "time": "2016-01-13 00:09:27"
+        },
         {
             "name": "components/jquery",
             "version": "2.2.0",

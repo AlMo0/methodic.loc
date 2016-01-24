@@ -95,5 +95,36 @@
         ],
         "description": "jQuery JavaScript Library",
         "homepage": "http://jquery.com"
+    },
+    {
+        "name": "codeigniter/framework",
+        "version": "3.0.4",
+        "version_normalized": "3.0.4.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/bcit-ci/CodeIgniter.git",
+            "reference": "ac067858c21250dd8c60cdc1f9bc12ba2ff82755"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/ac067858c21250dd8c60cdc1f9bc12ba2ff82755",
+            "reference": "ac067858c21250dd8c60cdc1f9bc12ba2ff82755",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2.4"
+        },
+        "require-dev": {
+            "mikey179/vfsstream": "1.1.*"
+        },
+        "time": "2016-01-13 00:09:27",
+        "type": "project",
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "The CodeIgniter framework",
+        "homepage": "https://codeigniter.com"
     }
 ]
