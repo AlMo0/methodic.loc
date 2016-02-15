@@ -1,0 +1,91 @@
+@charset "UTF-8";
+body {
+  font-family: Consolas, Monaco, Courier New, Courier, monospace;
+  background-color: #E8E8E8; }
+
+img {
+  margin: 10px 5px 5px 0; }
+
+#navigation_left_menu {
+  font-size: 14px;
+  color: #ECF6FF;
+  background-color: #2A4363;
+  border-right: 2px ridge #3E7D98; }
+
+#content_right_menu {
+  margin-bottom: 38px; }
+
+.navbar-background {
+  background: linear-gradient(#60ACE9 -10%, #4167FF) !important; }
+
+nav.navbar {
+  margin-bottom: 0;
+  border-bottom: 2px solid #0D67EC; }
+  nav.navbar li > a, nav.navbar .navbar-header {
+    color: #fff; }
+  nav.navbar li > a:hover, nav.navbar li > a:active, nav.navbar .nav .open > a {
+    background: linear-gradient(#98C5E9 -10%, #0D67EC) !important; }
+
+/* ╧Ёш эртхфхэхшш ь√°ъш эр ьхэ■, юЄъЁ√трхЄё  ёяшёюъ */
+.dropdown:hover > .dropdown-menu, .dropdown.open .dropdown-menu {
+  display: block;
+  opacity: 1;
+  background-color: #4167FF; }
+
+.navbar-fixed-top {
+  position: relative; }
+
+.menu_section {
+  margin: 0 -15px; }
+  .menu_section h4 {
+    font-family: Courier;
+    padding: 10px;
+    margin: 0;
+    background: linear-gradient(#90caf9 -10%, #4167FF) !important; }
+  .menu_section ul {
+    font-size: 16px;
+    margin-bottom: 0; }
+  .menu_section li {
+    padding: 5px 5px 5px 30px;
+    margin: 1px 0 0 0;
+    border-bottom: 1px solid #000; }
+    .menu_section li a {
+      text-decoration: none;
+      color: #fff; }
+  .menu_section li:hover {
+    margin: 0;
+    cursor: pointer;
+    background: linear-gradient(#98C5E9 -10%, #0D67EC) !important;
+    border-bottom: solid 1px #000;
+    border-top: solid 1px #e3e3e3; }
+  .menu_section li:active {
+    background-color: #193c5a; }
+
+.margin_left {
+  margin-left: 25px; }
+
+li.style-list-menu {
+  background-color: #546D8C; }
+  li.style-list-menu span:first-child {
+    margin-left: 25px; }
+
+.bg-grey {
+  background-color: #B5B5B5; }
+
+.bg-dark-grey {
+  background-color: #949393; }
+
+table tr:hover {
+  cursor: context-menu; }
+
+tr > th {
+  text-align: center; }
+
+thead {
+  background-color: #272626;
+  color: #fff; }
+
+tfoot {
+  background-color: #A2A2A2; }
+
+/*# sourceMappingURL=main_admin.css.map */
